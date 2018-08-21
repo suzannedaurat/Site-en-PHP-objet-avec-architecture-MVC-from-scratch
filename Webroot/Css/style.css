@@ -1,0 +1,57 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    color: #f32610;
+    background:  #3498db ;
+    font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    color:  #f1c40f  ;
+}
+
+h2 {
+    color:  #2874a6  ;
+}
+
+
+th {
+    border: 1px solid;
+}
+
+#text{
+    color:  #f39c12;
+}
+
+#text2{
+    color:  #d66910 ;
+}
+
+
+#global {
+    min-height: 100%;
+    background: #d6eaf8 ;
+    width: 70%;
+    margin: auto;
+    text-align: justify;
+    padding: 5px 20px;
+    color :  #cb4335;
+}
+
+#contenu {
+    margin-bottom : 30px;
+    
+}
+
+#img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#titreBlog, #piedBlog {
+    text-align: center;
+}
